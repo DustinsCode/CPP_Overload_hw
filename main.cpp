@@ -1,3 +1,10 @@
+/**
+* Class Writing & Operand Overloading HW
+*
+* @author Dustin Thurston
+* @date 10/8/2017
+**/
+
 #include <string>
 #include <vector>
 #include <ctime>
